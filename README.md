@@ -1,3 +1,4 @@
+## Compte Rendu Act 6
 # Kafka Stream Application
 
 <img width="989" alt="Capture d’écran 2024-01-29 à 18 22 31" src="https://github.com/BENMMohammed/Spring-Cloud-Kafka/assets/92373459/2038b60e-b08f-4fec-8d1a-831e341413ea">
